@@ -15,3 +15,9 @@ Docker run:
 ```
 docker run -e MATTERMOST_KEY='bot-token' -e MATTERMOST_API_ENDPOINT='https://your-mattermost-host.com/api/v4' wojciechzurek/mattermost-calc-bot:{version}
 ```
+Available commands
+```
+!help
+!calc math expression (ephemeral post)
+!calc -p math expression (public post)
+```
