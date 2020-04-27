@@ -8,3 +8,5 @@
 This project uses https://github.com/mariuszgromada/MathParser.org-mXparser
 
 Mattermost: https://github.com/mattermost
+
+Project docker hub: https://hub.docker.com/r/wojciechzurek/mattermost-calc-bot
