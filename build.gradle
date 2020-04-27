@@ -8,7 +8,7 @@ plugins {
 
 
 version "0.1"
-group "micronaut.calc.bot"
+group "mattermost.calc.bot"
 
 repositories {
     mavenCentral()
