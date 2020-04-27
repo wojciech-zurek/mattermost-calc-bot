@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: micronaut-calc-bot
+  http:
+    client:
+      read-idle-timeout: 5m
+
+mattermost:
+  key: 00000
+  api:
+    endpoint: http://localhost:8065/api/v4
